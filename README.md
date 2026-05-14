@@ -1,8 +1,11 @@
 # Hi, I'm Mohamed 👋
 
-I'm a budding Front-End Developer exploring HTML, CSS, and JavaScript.  
+Full-Stack DeveloperBuilding scalable web & mobile solutions
 Currently learning Full Stack Development through a 65-hour Udemy course & Set Up an App Dev Environment on Google Cloud
 
+📱 Published Android Applications on Google Play.
+☁️ Experience in Google Cloud Platform (GCP) App Development environment.
+🤖 Leveraging Prompt Engineering to optimize software performance.
 
 ## 🛠 Skills
 - HTML, CSS, Java
