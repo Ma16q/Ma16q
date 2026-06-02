@@ -10,14 +10,14 @@ Currently learning Full Stack Development through a 65-hour Udemy course & Set U
 🤖 Leveraging Prompt Engineering to optimize software performance.
 
 ## 🛠 Skills
-- HTML, CSS, Java
+- Java, HTML, CSS, Javascript
 - App Dev: andriod studio, fluterr (learning)
 - GitHub, VS Code
 - React (comming soon)
 
 ## 🌱 Currently Learning
-- Full Stack Web Development 
-- Advanced JavaScript, Node.js, React
+- Full Stack Web Development ( Advanced JavaScript, Node.js, React) 
+- Flutter cross-platform mobile applications (Dart)
 
 
 | **Languages** | **Web & Tools** | 
