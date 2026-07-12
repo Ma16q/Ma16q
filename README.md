@@ -5,7 +5,7 @@ Currently learning Full Stack Development through a 65-hour Udemy course & Set U
 
 📱 Published Android Applications on Google Play.
 
-☁️ Experience in Google Cloud Platform (GCP) App Development environment.
+☁️ Exploring in Google Cloud Platform (GCP) App Development environment.
 
 🤖 Leveraging Prompt Engineering to optimize software performance.
 
